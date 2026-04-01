@@ -1,0 +1,15 @@
+---
+title: "Publications"
+date: last-modified
+bibliography: references/works.bib
+csl: references/publications-desc.csl
+link-citations: true
+nocite: |
+  @*
+toc: false
+---
+
+## Peer-reviewed articles
+
+::: {#refs}
+:::

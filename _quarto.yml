@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "Kakinuma Lab."
+  site-url: https://your-domain.example  # 後でCNAMEに合わせて更新
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Members
+        href: members.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Talks
+        href: talks/index.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/yourname
+      - icon: bluesky
+        href: https://bsky.app/profile/kaoru-kaki.bsky.social  # Blueskyに置換
+      - icon: instagram
+        href: https://www.instagram.com/kaoru_kaki
+  page-footer:
+    left: "© Kaoru Kakinuma"
+    right: "Last updated: {{< meta date >}}"
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+    df-print: paged
+    code-fold: false
+    link-external-newwindow: true
+
+lang: en

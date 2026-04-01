@@ -1,0 +1,21 @@
+---
+draft: true 
+date: last-modified 
+---
+
+## Agenda
+**Multiscale Socio‑Ecological Dynamics in a Changing Climate**  
+Human–nature interactions under climate change, from local to global scales.
+
+### Focus Areas
+- **Climate‑induced migration & aging** (admin‑level grids, Japan & global)
+- **Heat & health** (hierarchical risk models; BYM2/INLA; WBGT thresholds)
+- **Flood‑induced demographic change** (aging acceleration; spatial equity)
+- **Biodiversity × Agriculture** (ecosystem resistance; NDVI/SPEI integration)
+
+### Methods
+- Bayesian spatial models (BYM2), GLMM/GLMM‑TMB
+- CNN/RNN/GNN for spatiotemporal prediction
+- Data fusion: WorldPop, AlphaEarth, NDVI, SPEI, admin shapefiles
+
+> For project‑specific details, see **Projects** or recent talks.

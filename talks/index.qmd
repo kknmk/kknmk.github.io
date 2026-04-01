@@ -1,0 +1,16 @@
+---
+title: "Recent Talks"
+date: last-modified
+toc: false
+---
+
+Only talks from the past 12 months are listed here. Older talks are available in the [Archive](archive/index.qmd).
+
+- **2026-03** — The 73rd Annual Meeting of the Ecological Society of Japan (Kyoto)  
+  K. Kakinuma, A. Yanagawa, and H. Kim, “Ecological Resistance to Drought and Child Malnutrition: Linking Ecosystem Function to Human Health”
+
+- **2025-10** — The 4th Asian Population Forum (Shanghai)  
+  K. Kakinuma, “Linking spatially uneven population aging to heatstroke mortality in Japan (1995–2022)”
+
+- **2025-07** — International Population Conference 2025 (Brisbane)  
+  K. Kakinuma and N. Inoue, “Climate Change and an Aging Society: The Rapid Increase of Heatstroke Deaths in Japan (1972–2022)”

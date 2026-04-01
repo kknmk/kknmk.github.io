@@ -1,0 +1,10 @@
+---
+title: "Talks — Archive"
+date: last-modified
+---
+
+## 2025
+- 2025-07 — Example Workshop — *Title here*
+
+## 2024
+- 2024-11 — Example Conf — *Title here*

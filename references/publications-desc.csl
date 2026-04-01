@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US">
+  <info>
+    <title>Publications Descending by Date</title>
+    <id>http://www.zotero.org/styles/publications-desc-date</id>
+    <category citation-format="author-date"/>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+  </info>
+
+  <macro name="author">
+    <names variable="author">
+      <name and="text" delimiter=", " initialize-with=". "/>
+    </names>
+  </macro>
+
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+
+  <macro name="container">
+    <group delimiter=", ">
+      <text variable="container-title" font-style="italic"/>
+      <text variable="volume"/>
+      <text variable="issue" prefix="(" suffix=")"/>
+      <text variable="page"/>
+    </group>
+  </macro>
+
+  <citation>
+    <layout delimiter="; ">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="issued" prefix="(" suffix=")"/>
+      </group>
+    </layout>
+  </citation>
+
+  <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="2">
+    <sort>
+      <key variable="issued" sort="descending"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=". ">
+        <text macro="author"/>
+        <text macro="issued" prefix="(" suffix=")"/>
+        <text macro="title"/>
+        <text macro="container"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

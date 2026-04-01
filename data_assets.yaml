@@ -1,0 +1,8 @@
+# List datasets/code with DOI. Quarto pages can read this if needed.
+datasets:
+  - title: Heatstroke Mortality (Japan) — Processed data
+    doi: 10.5281/zenodo.xxxxx
+    repo: https://github.com/yourname/project-repo
+  - title: Global Migration Model — Code release
+    doi: 10.5281/zenodo.yyyyy
+    repo: https://github.com/yourname/migration-model
