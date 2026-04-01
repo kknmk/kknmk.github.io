@@ -5,9 +5,7 @@ date: last-modified
 
 ## Societal impacts of climate change across scales, from local to global {.unlisted}
 
-Our lab. focuses on the interplay between climate/environmental change and population dynamics, examining how climate change affects human societies across diverse spatial scales.
-We empirically investigate its impacts on human migration, heat-related health risks, ecosystem vulnerability, and social inequality.
-Our goal is to deepen understanding of the patterns and mechanisms from local to global levels, and to support the development of adaptation strategies for future climate extremes.
+Our lab. focuses on the interplay between climate/environmental change and population dynamics, examining how climate change affects human societies across diverse spatial scales. We empirically investigate its impacts on human migration, heat-related health risks, ecosystem vulnerability, and social inequality.Our goal is to deepen understanding of the patterns and mechanisms from local to global levels, and to support the development of adaptation strategies for future climate extremes.
   
 
 [ORCID](https://orcid.org/0000-0003-4647-9582) ·
@@ -21,6 +19,5 @@ Our goal is to deepen understanding of the patterns and mechanisms from local to
 
 ## 気候変動の社会影響を、地域から全球まで横断的に解明する {.unlisted}
 
-本研究室では、気候・環境変化と人口動態の相互作用を軸に、気候変動が人間社会に与える影響を多様な空間スケールで明らかにします。  
-とくに、人口移動、熱中症リスク、生態系の脆弱性、社会的格差への影響を実証的に検証しています。
+本研究室では、気候・環境変化と人口動態の相互作用を軸に、気候変動が人間社会に与える影響を多様な空間スケールで明らかにします。  とくに、人口移動、熱中症リスク、生態系の脆弱性、社会的格差への影響を実証的に検証しています。
 地域から全球までのパターンとメカニズムの理解を深め、将来リスクへの適応策の検討につなげることを目標としています。
