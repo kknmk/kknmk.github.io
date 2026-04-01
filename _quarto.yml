@@ -3,7 +3,8 @@ project:
 
 website:
   title: "Kakinuma Lab."
-  site-url: https://your-domain.example  # 後でCNAMEに合わせて更新
+  site-url: "https://kknmk.github.io/"
+  repo-url: "https://github.com/kknmk/kknmk.github.io"
   navbar:
     left:
       - text: Home
