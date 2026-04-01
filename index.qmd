@@ -16,7 +16,7 @@ Frontier Research Institute for Interdisciplinary Sciences, Tohoku University
 
 <div style="max-width: 820px; margin: 0 auto; padding: 0 1rem; line-height: 1.85; font-size: 1.02rem;">
 
-### Societal impacts of climate change across scales, from local to global {.unlisted}
+### Societal impacts of climate change from local to global {.unlisted}
 
 Our lab focuses on the interplay between climate and environmental change and population dynamics, examining how climate change affects human societies across multiple spatial scales. We empirically investigate its impacts on human migration, health, ecosystem vulnerability, and social inequality. Our goal is to deepen understanding of these patterns and mechanisms from local to global levels and to support the development of adaptation strategies for future climate extremes.
 
