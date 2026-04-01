@@ -18,7 +18,7 @@ Frontier Research Institute for Interdisciplinary Sciences, Tohoku University
 
 ### Societal impacts of climate change from local to global {.unlisted}
 
-Our lab focuses on the interplay between climate and environmental change and population dynamics, examining how climate change affects human societies across multiple spatial scales. We empirically investigate its impacts on human migration, health, ecosystem vulnerability, and social inequality. Our goal is to deepen understanding of these patterns and mechanisms from local to global levels and to support the development of adaptation strategies for future climate extremes.
+Our lab focuses on the interplay between climate/environmental change and population dynamics, examining how climate change affects human societies across multiple spatial scales. We empirically investigate its impacts on human migration, health, ecosystem vulnerability, and social inequality. Our goal is to deepen understanding of these patterns and mechanisms from local to global levels and to support the development of adaptation strategies for future climate extremes.
 
 <div style="margin-top: 1rem;">
 [ORCID](https://orcid.org/0000-0003-4647-9582) ·
