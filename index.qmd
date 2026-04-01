@@ -12,8 +12,8 @@ Kakinuma Lab.
 Frontier Research Institute for Interdisciplinary Sciences, Tohoku University
 </div>
 
-<div style="font-size: 1.15rem; margin-top: 1.3rem; line-height: 1.6;">
-Societal impacts of climate change across scales, from local to global
+
+###Societal impacts of climate change across scales, from local to global{.unlisted}
 </div>
 
 </div>
@@ -32,7 +32,7 @@ Our lab focuses on the interplay between climate and environmental change and po
 
 ---
 
-### 研究概要 {.unlisted}
+### 気候変動の社会影響を、地域から全球まで横断的に解明する {.unlisted}
 
 本研究室では、気候・環境変化と人口動態の相互作用に着目し、気候変動が人間社会に与える影響を地域から全球までの多様な空間スケールで明らかにします。とくに、人口移動、熱中症リスク、生態系の脆弱性、社会的格差への影響を実証的に検証しています。こうした分析を通じて、パターンとメカニズムの理解を深め、将来の気候リスクへの適応策の検討につなげることを目指しています。
 
