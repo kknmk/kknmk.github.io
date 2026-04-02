@@ -1,0 +1,22 @@
+/* Hide Quarto automatic title block */
+#title-block-header {
+  display: none !important;
+}
+
+/* Navbar brand on the left */
+.navbar-brand {
+  font-weight: 600;
+}
+
+/* Keep text readable */
+main.content {
+  max-width: 900px;
+}
+
+p {
+  line-height: 1.8;
+}
+
+main.content h2 {
+  text-align: left !important;
+}

@@ -8,8 +8,6 @@ toc: false
 
 ### Kaoru Kakinuma
 
-Associate Professor, Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University
-
 **Research interests**
 
 - Climate-induced migration modeling
@@ -20,8 +18,6 @@ Associate Professor, Frontier Research Institute for Interdisciplinary Sciences 
 ---
 
 ### 柿沼 薫
-
-東北大学 学際科学フロンティア研究所 准教授
 
 **研究テーマ**
 
