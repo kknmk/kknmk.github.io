@@ -1,9 +1,10 @@
 <script>
 // Rewrites the navbar language-switch link so it points to the
-// counterpart of the *current* page (not just the other home page).
+// counterpart of the *current* page. The link is identified by its
+// label ("English" / "日本語") because Quarto rewrites href values
+// to relative paths at render time.
 document.addEventListener("DOMContentLoaded", function () {
   var isJa = (document.documentElement.lang || "").toLowerCase().indexOf("ja") === 0;
-  var marker = isJa ? "/" : "/ja/";
   var path = window.location.pathname;
   var target;
   if (isJa) {
@@ -12,9 +13,8 @@ document.addEventListener("DOMContentLoaded", function () {
     target = "/ja" + (path.charAt(0) === "/" ? path : "/" + path);
   }
   document.querySelectorAll(".navbar a.nav-link").forEach(function (a) {
-    var href = a.getAttribute("href");
     var label = (a.textContent || "").trim();
-    if (href === marker && (label === "English" || label === "日本語")) {
+    if (label === "English" || label === "日本語") {
       a.setAttribute("href", target);
     }
   });
