@@ -6,6 +6,9 @@ toc: false
 
 Only talks from the past 12 months are listed here. Older talks are available in the [Archive](archive/index.qmd).
 
+- **2026-05** — EGU General Assembly 2026 (Vienna)  
+  K. Kakinuma and N. Inoue, “Heatstroke mortality under climate and demographic transitions: 28-year spatio-temporal analysis in Japan”
+
 - **2026-03** — The 73rd Annual Meeting of the Ecological Society of Japan (Kyoto)  
   K. Kakinuma, A. Yanagawa, and H. Kim, “Ecological Resistance to Drought and Child Malnutrition: Linking Ecosystem Function to Human Health”
 
