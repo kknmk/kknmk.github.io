@@ -1,0 +1,22 @@
+<script>
+// Rewrites the navbar language-switch link so it points to the
+// counterpart of the *current* page (not just the other home page).
+document.addEventListener("DOMContentLoaded", function () {
+  var isJa = (document.documentElement.lang || "").toLowerCase().indexOf("ja") === 0;
+  var marker = isJa ? "/" : "/ja/";
+  var path = window.location.pathname;
+  var target;
+  if (isJa) {
+    target = path.replace(/^\/ja(\/|$)/, "/");
+  } else {
+    target = "/ja" + (path.charAt(0) === "/" ? path : "/" + path);
+  }
+  document.querySelectorAll(".navbar a.nav-link").forEach(function (a) {
+    var href = a.getAttribute("href");
+    var label = (a.textContent || "").trim();
+    if (href === marker && (label === "English" || label === "日本語")) {
+      a.setAttribute("href", target);
+    }
+  });
+});
+</script>

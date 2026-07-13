@@ -4,12 +4,29 @@ date: last-modified
 toc: false
 ---
 
+::: {.content-visible when-profile="en"}
+
 ## Kaoru Kakinuma
 
-Associate Professor  
-Frontier Research Institute for Interdisciplinary Sciences (FRIS)  
-Tohoku University  
+Associate Professor\
+Frontier Research Institute for Interdisciplinary Sciences (FRIS)\
+Tohoku University
 
 [Access](https://www.fris.tohoku.ac.jp/en/about/access.html)
 
 Email: kaoru.kakinuma.a1"at"tohoku.ac.jp
+
+:::
+
+::: {.content-visible when-profile="ja"}
+
+## 柿沼 薫
+
+准教授\
+東北大学 学際科学フロンティア研究所(FRIS)
+
+[アクセス](https://www.fris.tohoku.ac.jp/about/access.html)
+
+Email: kaoru.kakinuma.a1"at"tohoku.ac.jp
+
+:::

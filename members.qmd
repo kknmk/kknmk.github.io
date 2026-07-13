@@ -4,7 +4,9 @@ date: last-modified
 toc: false
 ---
 
-## Principal Investigator 
+::: {.content-visible when-profile="en"}
+
+## Principal Investigator
 
 ### Kaoru Kakinuma
 
@@ -17,6 +19,16 @@ toc: false
 
 ---
 
+## Students
+
+- Information will be added as the group grows.
+
+:::
+
+::: {.content-visible when-profile="ja"}
+
+## 主宰者
+
 ### 柿沼 薫
 
 **研究テーマ**
@@ -28,7 +40,8 @@ toc: false
 
 ---
 
-## Students
+## 学生
 
-- Information will be added as the group grows.
 - 準備中
+
+:::

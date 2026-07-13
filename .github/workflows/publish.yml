@@ -24,8 +24,13 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render site
-        uses: quarto-dev/quarto-actions/render@v2
+      # English site -> _site/  (must run first: it cleans _site)
+      - name: Render site (English)
+        run: quarto render --profile en
+
+      # Japanese site -> _site/ja/
+      - name: Render site (Japanese)
+        run: quarto render --profile ja
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

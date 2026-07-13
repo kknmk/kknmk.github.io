@@ -1,0 +1,29 @@
+lang: ja
+
+project:
+  output-dir: _site/ja
+
+website:
+  site-url: "https://kknmk.github.io/ja/"
+  navbar:
+    right:
+      - text: ホーム
+        href: index.qmd
+      - text: メンバー
+        href: members.qmd
+      - text: 業績
+        href: publications.qmd
+      - text: 発表
+        href: talks/index.qmd
+      - text: 連絡先
+        href: contact.qmd
+      - text: "English"
+        href: "/"
+      - icon: github
+        href: https://github.com/kknmk
+      - icon: bluesky
+        href: https://bsky.app/profile/kaoru-kaki.bsky.social
+      - icon: instagram
+        href: https://www.instagram.com/kaoru_kaki
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kaoru-kakinuma-128b4513b

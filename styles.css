@@ -20,3 +20,56 @@ p {
 main.content h2 {
   text-align: left !important;
 }
+
+/* ---------- Hero (top page) ---------- */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 2.5rem 0 2rem 0;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  flex: 1 1 320px;
+  min-width: 280px;
+}
+
+.hero-title {
+  font-size: 2.4rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.3rem 0;
+  line-height: 1.2;
+}
+
+.hero-affil {
+  font-size: 1rem;
+  color: #666;
+  margin: 0 0 1rem 0;
+}
+
+.hero-tagline {
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: #20657c;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.hero-image {
+  flex: 1 1 360px;
+  min-width: 280px;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+/* Social / academic links row */
+.link-row {
+  margin-top: 1rem;
+}
