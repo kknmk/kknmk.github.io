@@ -5,6 +5,7 @@ project:
 
 website:
   site-url: "https://kknmk.github.io/ja/"
+  description: "環境変動と人口動態の関わりに着目した新しい研究領域「環境人口動態学(Environmental Demodynamics)」を推進する東北大学の研究室です。"
   navbar:
     right:
       - text: ホーム

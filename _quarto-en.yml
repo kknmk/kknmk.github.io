@@ -2,6 +2,7 @@ lang: en
 
 website:
   site-url: "https://kknmk.github.io/"
+  description: "Kakinuma Lab at Tohoku University develops Environmental Demodynamics, a research field studying environmental and demographic change from local to global scales."
   navbar:
     right:
       - text: Home
