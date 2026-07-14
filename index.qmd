@@ -10,7 +10,7 @@ toc: false
   <div class="hero-text">
     <p class="hero-title">Kakinuma Lab.</p>
     <p class="hero-affil">Frontier Research Institute for Interdisciplinary Sciences, Tohoku University</p>
-    <p class="hero-tagline">Societal impacts of climate change — from local to global.</p>
+    <p class="hero-tagline">Societal impacts of climate change, from local to global.</p>
   </div>
   <div class="hero-image">
     <img src="images/hero.jpg" alt="Kakinuma Lab — climate and society research" />
@@ -27,7 +27,7 @@ toc: false
 
 ### About us {.unlisted}
 
-Our lab develops Environmental Demodynamics, an emerging research field that integrates environmental and demographic change into a single analytical framework. We combine satellite-derived environmental information (vegetation, drought, flood, and heat exposure) with demographic data on migration, age structure, and health, using deep learning and spatial statistical models to reveal who moves, where, and how in response to environmental change — from local to global scales. Our goal is to translate these findings into better climate adaptation strategies and more reliable population projections.
+Our lab develops Environmental Demodynamics, an emerging research field that integrates environmental and demographic change into a single analytical framework. Who moves, whose health is at risk, and where do vulnerability and inequality concentrate as the environment changes? We tackle these questions at scales from local to global, combining field research with satellite-derived environmental information (vegetation, drought, flood, and extreme heat), demographic data, and spatial statistical and deep learning models. Our goal is to translate these findings into better climate adaptation strategies and more reliable population projections.
 
 <div class="link-row">
 [ORCID](https://orcid.org/0000-0003-4647-9582) ·
@@ -57,14 +57,14 @@ Our lab develops Environmental Demodynamics, an emerging research field that int
 
 ### 最近のニュース {.unlisted}
 
-- **2026年7月** — 発育阻害の子どもたちが干ばつに敏感な生態系にどの程度さらされているかを全球規模で分析した論文が *Environmental Research Letters* に掲載されました。
-- **2026年5月** — ウィーンで開催されたEGU General Assembly 2026で、気候変動と人口構造の変化のもとでの日本の熱中症死亡に関する研究を発表しました。
+- **2026年7月** — 発育阻害の子どもたちが干ばつに脆弱な生態系にどの程度さらされているかを全球規模で分析した論文が *Environmental Research Letters* に掲載されました。
+- **2026年5月** — ウィーンで開催されたEGU General Assembly 2026で、日本における気温上昇と高齢化が熱中症死亡リスクへ与える影響の解析について発表しました。
 
 ---
 
 ### 研究室について {.unlisted}
 
-本研究室は、環境変動と人口動態の相互作用を統合的に解明する新しい研究領域「環境人口動態学(Environmental Demodynamics)」を推進しています。衛星観測による環境情報(植生・干ばつ・洪水・熱波)と、人口移動・年齢構造・健康に関する人口統計を、深層学習や空間統計モデルによって結合し、「環境の変化が、誰を、どこへ、どのように動かすのか」を地域から全球までのスケールで実証的に明らかにします。得られた知見を、気候変動適応策や将来人口予測の高度化につなげることを目指しています。
+本研究室は、環境変動と人口動態の相互作用を統合的に解明する新しい研究領域「環境人口動態学(Environmental Demodynamics)」を推進しています。環境の変化は、誰を動かし、誰の健康を脅かし、どこに脆弱性と格差を集中させるのか。この問いに、現地でのフィールド調査と、衛星観測による環境情報(植生・干ばつ・洪水・熱波)や人口統計(人口移動・年齢構造・健康)を結びつける空間統計・深層学習モデルを組み合わせて、地域から全球までのスケールで実証的に取り組んでいます。得られた知見を、気候変動適応策や将来人口予測の高度化につなげることを目指しています。
 
 <div class="link-row">
 [ORCID](https://orcid.org/0000-0003-4647-9582) ·
