@@ -27,7 +27,7 @@ toc: false
 
 ### About us {.unlisted}
 
-Our lab focuses on the interplay between climate and environmental change and population dynamics, examining how climate change affects human societies across multiple spatial scales. We empirically investigate its impacts on human migration, health, ecosystem vulnerability, and social inequality. Our goal is to deepen understanding of these patterns and mechanisms from local to global levels and to support the development of adaptation strategies for future climate extremes.
+Our lab develops Environmental Demodynamics, an emerging research field that integrates environmental and demographic change into a single analytical framework. We combine satellite-derived environmental information (vegetation, drought, flood, and heat exposure) with demographic data on migration, age structure, and health, using deep learning and spatial statistical models to reveal who moves, where, and how in response to environmental change — from local to global scales. Our goal is to translate these findings into better climate adaptation strategies and more reliable population projections.
 
 <div class="link-row">
 [ORCID](https://orcid.org/0000-0003-4647-9582) ·
@@ -64,7 +64,7 @@ Our lab focuses on the interplay between climate and environmental change and po
 
 ### 研究室について {.unlisted}
 
-本研究室では、気候・環境変化と人口動態の相互作用に着目し、気候変動が人間社会に与える影響を地域から全球までの多様な空間スケールで明らかにします。とくに、人口移動、健康、生態系の脆弱性、社会的格差への影響を実証的に検証しています。地域から全球までのパターンとメカニズムの理解を深め、気候変動適応策の検討につなげることを目標としています。
+本研究室は、環境変動と人口動態の相互作用を統合的に解明する新しい研究領域「環境人口動態学(Environmental Demodynamics)」を推進しています。衛星観測による環境情報(植生・干ばつ・洪水・熱波)と、人口移動・年齢構造・健康に関する人口統計を、深層学習や空間統計モデルによって結合し、「環境の変化が、誰を、どこへ、どのように動かすのか」を地域から全球までのスケールで実証的に明らかにします。得られた知見を、気候変動適応策や将来人口予測の高度化につなげることを目指しています。
 
 <div class="link-row">
 [ORCID](https://orcid.org/0000-0003-4647-9582) ·
