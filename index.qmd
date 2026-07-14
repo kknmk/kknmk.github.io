@@ -27,7 +27,7 @@ toc: false
 
 ### About us {.unlisted}
 
-Our lab develops Environmental Demodynamics, an emerging research field that integrates environmental and demographic change into a single analytical framework. Who moves, whose health is at risk, and where do vulnerability and inequality concentrate as the environment changes? We tackle these questions at scales from local to global, combining field research with satellite-derived environmental information (vegetation, drought, flood, and extreme heat), demographic data, and spatial statistical and deep learning models. Our goal is to translate these findings into better climate adaptation strategies and more reliable population projections.
+Our lab develops Environmental Demodynamics, an emerging research field at the intersection of environmental and demographic change. Who moves, whose health is at risk, and where do vulnerability and inequality concentrate as the environment changes? We tackle these questions at scales from local to global, combining field research with satellite-derived environmental information (vegetation, drought, flood, and extreme heat), demographic data, and spatial statistical and deep learning models. Our ultimate goal is to build a dynamic assessment framework in which population and environmental dynamics evolve together. Such a framework will help detect rising vulnerability in advance and support climate adaptation.
 
 <div class="link-row">
 [ORCID](https://orcid.org/0000-0003-4647-9582) ·
@@ -64,7 +64,7 @@ Our lab develops Environmental Demodynamics, an emerging research field that int
 
 ### 研究室について {.unlisted}
 
-本研究室は、環境変動と人口動態の相互作用を統合的に解明する新しい研究領域「環境人口動態学(Environmental Demodynamics)」を推進しています。環境の変化は、誰を動かし、誰の健康を脅かし、どこに脆弱性と格差を集中させるのか。この問いに、現地でのフィールド調査と、衛星観測による環境情報(植生・干ばつ・洪水・熱波)や人口統計(人口移動・年齢構造・健康)を結びつける空間統計・深層学習モデルを組み合わせて、地域から全球までのスケールで実証的に取り組んでいます。得られた知見を、気候変動適応策や将来人口予測の高度化につなげることを目指しています。
+本研究室は、環境変動と人口動態の関わりに着目した新しい研究領域「環境人口動態学(Environmental Demodynamics)」を推進しています。環境の変化は、誰を動かし、誰の健康を脅かし、どこに脆弱性と格差を集中させるのか。この問いに、現地でのフィールド調査と、衛星観測による環境情報(植生・干ばつ・洪水・熱波)や人口統計(人口移動・年齢構造・健康)を結びつける空間統計・深層学習モデルを組み合わせて、地域から全球までのスケールで実証的に取り組んでいます。最終的な目標は、人口動態と環境動態を一体のシステムとして捉える動的な評価基盤の構築です。この基盤により、脆弱性の高まりを事前に捉え、気候変動適応につなげることを目指しています。
 
 <div class="link-row">
 [ORCID](https://orcid.org/0000-0003-4647-9582) ·
