@@ -20,6 +20,7 @@ toc: false
 
 ### Recent News {.unlisted}
 
+- **August 2026** — Held the first joint workshop of the SOKAP-Connect project, discussing a framework for assessing how forest and ecosystem conditions mitigate flood damage, together with the effects of demographic change.
 - **July 2026** — A paper on the global exposure of stunted children to drought-sensitive ecosystems was published in *Environmental Research Letters*.
 - **May 2026** — Presented research on heatstroke mortality in Japan under climate and demographic change at the EGU General Assembly 2026 in Vienna.
 
@@ -57,6 +58,7 @@ Our lab develops Environmental Demodynamics, an emerging research field at the i
 
 ### 最近のニュース {.unlisted}
 
+- **2026年8月** — SOKAP-Connectプロジェクトの第1回合同ワークショップを開催し、森林・生態系の状態が水害被害をどの程度和らげるのかを、人口構造の変化とあわせて検証する枠組みについて議論しました。
 - **2026年7月** — 発育阻害の子どもたちが干ばつに脆弱な生態系にどの程度さらされているかを全球規模で分析した論文が *Environmental Research Letters* に掲載されました。
 - **2026年5月** — ウィーンで開催されたEGU General Assembly 2026で、日本における気温上昇と高齢化が熱中症死亡リスクへ与える影響の解析について発表しました。
 
