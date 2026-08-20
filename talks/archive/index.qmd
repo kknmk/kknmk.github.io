@@ -4,7 +4,6 @@ date: last-modified
 ---
 
 ## 2025
-- 2025-07 — Example Workshop — *Title here*
 
-## 2024
-- 2024-11 — Example Conf — *Title here*
+- **2025-07** — International Population Conference 2025 (Brisbane)\
+  K. Kakinuma and N. Inoue, “Climate Change and an Aging Society: The Rapid Increase of Heatstroke Deaths in Japan (1972–2022)”
