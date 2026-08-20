@@ -7,6 +7,15 @@
     <updated>2026-04-01T00:00:00+00:00</updated>
   </info>
 
+  <!-- Keep bibliography terms in English on the Japanese site,
+       where the page language would otherwise yield 「と」/「ほか」. -->
+  <locale>
+    <terms>
+      <term name="and">and</term>
+      <term name="et-al">et al.</term>
+    </terms>
+  </locale>
+
   <macro name="author">
     <names variable="author">
       <name and="text" delimiter=", " initialize-with=". "/>
