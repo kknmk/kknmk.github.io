@@ -27,7 +27,7 @@ toc: false
 
 ::: {.content-visible when-profile="ja"}
 
-## 主宰者
+## 教員
 
 ### 柿沼 薫
 
